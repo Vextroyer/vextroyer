@@ -19,15 +19,14 @@ Yes. To collaborate on cool things. To talk. And to do businesses.
 You can contact me via [telegram](https://t.me/papepopipu).
 You can read my stories also on [telegram](https://t.me/te_lo_cuento_como_es). I write daily.
 
-## So .. what i have done ?
-- A search engine called Moogle. This was a school project. Its like having google but in your desktop and instead of searching on the web it searches your files.
-- A interpreter for the Hulk programming language called Hulki. Another school project. I learned about of compilers and interpreters with this.
-- Another interpreter called GeoWallE. Its an evolution of Hulki. It interprets programs which are used to draw graphics on screen.
-- A lot of ai players for the hex game. Using different techniques, like Minimax and MonteCarloTreeSeach, and heuristics. I liked this one a lot. It was entertaining.
-- A rock paper scissor game but on LAN. My roommate and I were bored of playing Warcraft III so I made this one.
-- Some utilities for playing the Hangman game. I play a lot of this with pen and paper.
+## So .. what i have done ? (From newest to oldest)
 - A [minigame](https://veztro.itch.io/grab-that-coin) that i made first using prolog and then Haskell based on the MisereNim Game. God i love declarative programming.
-- 
+- Some utilities for playing the Hangman game. I play a lot of this with pen and paper.
+- A rock paper scissor game but on LAN. My roommate and I were bored of playing Warcraft III so I made this one.
+- A lot of ai players for the hex game. Using different techniques, like Minimax and MonteCarloTreeSeach, and heuristics. I liked this one a lot. It was entertaining.
+- My second interpreter, called GeoWallE. Its an evolution of Hulki. It interprets programs which are used to draw graphics on screen.
+- My first interpreter called Hulki for the Hulk programming language . Another school project. I learned about of compilers and interpreters with this.
+- A search engine called Moogle. This was a school project. Its like having google but in your desktop and instead of searching on the web it searches your files.
 
 ## The story of my life ... Nah. Just some background.
 - I Am Cuban. With all the pros and cons.
