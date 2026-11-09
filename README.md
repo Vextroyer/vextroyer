@@ -10,7 +10,6 @@ I go by Vextroyer on github because it sounds cool and its the name I used on a 
 
 ## I am currently working on:
 - A MCP server so agents can roll dice. And play tabletop games. They aren't going to play at a table but you got the idea.
-- A web page that generates a full month of passwords. See some people ask me for passwords every month and i can just point them to the page.
 - A web page to keep track of the progress towards a goal. I currently do it by hand on a sheet of paper. So I Am digi-evolving it.
 - Buying a new laptop. Mine is 6 years old now. And for the long term buying a desktop pc, solar panels and batteries. Because there is only 2 hours of power a day where i live.
 
@@ -20,6 +19,7 @@ You can contact me via [telegram](https://t.me/papepopipu).
 You can read my stories also on [telegram](https://t.me/te_lo_cuento_como_es). I write daily.
 
 ## So .. what i have done ? (From newest to oldest)
+- A [web page](https://vextroyer.github.io/GiveMePasswords/) that generates a full month of passwords. See some people ask me for passwords every month and i can just point them to the page.
 - A [minigame](https://veztro.itch.io/grab-that-coin) that i made first using prolog and then Haskell based on the MisereNim Game. God i love declarative programming.
 - Some utilities for playing the Hangman game. I play a lot of this with pen and paper.
 - A rock paper scissor game but on LAN. My roommate and I were bored of playing Warcraft III so I made this one.
